@@ -1,0 +1,11 @@
+C++ Programming|Kent Beck|Microsoft Press,|586902|4|4th|10
+Python Programming|Frederick P.|Accurate Publishing ,|2420196|9|1th|6
+Python Programming|Ruhet mhata|Bitmap Books,|5211042|1|4th|9
+Python Programming|Frederick P.|Accurate Publishing ,|8276579|2|3th|4
+Java Programming|Kent Beck|Goodheart-Willcox,|5513139|5|4th|9
+Java Programming|Ruhet mhata|Goodheart-Willcox,|3456766|6|1th|2
+Java Programming|Ruhet mhata|Accurate Publishing ,|5650816|1|3th|0
+C++ Programming|Kent Beck|Accurate Publishing ,|2064651|10|3th|9
+Java Programming|Kent Beck|Bitmap Books,|4953416|6|3th|5
+C++ Programming|Frederick P.|Bitmap Books,|9404286|3|4th|6
+Java Programming|Frederick P.|Accurate Publishing ,|2576216|5|3th|4
